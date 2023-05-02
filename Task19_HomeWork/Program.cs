@@ -16,9 +16,9 @@ Console.Write("Введите пятизначное число: ");
 
         if (first == fifth && second == fourth)
         {
-            Console.WriteLine("Число является палиндромом.");
+            Console.WriteLine("Да");
         }
         else
         {
-            Console.WriteLine("Число не является палиндромом.");
+            Console.WriteLine("Нет");
         }
